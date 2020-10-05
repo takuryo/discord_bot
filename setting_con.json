@@ -1,0 +1,7 @@
+{
+    "TOKEN":"",
+    "api_key":"",
+    "check_responce":"<bound method Response.json of <Response [200]>>",
+    "role_unei":"大会運営",
+    "role_ban":"大会参加停止者"
+}
