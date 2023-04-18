@@ -1,7 +1,6 @@
-モックバトル大会進行bot ver1.0.0
-作者:りょうたく
-連絡先:https://twitter.com/ryotaku_exe
-
+大会進行bot ver1.0.0
+作者:
+連絡先:
 【実行環境】
 
 
